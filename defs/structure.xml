@@ -1,0 +1,12 @@
+<?xml version='1.0'?>
+<structure>
+
+    <library
+        name="mimetypes"
+        file="mimetypes.library"/>
+
+    <extras
+        name="mime.types"
+        file="mime.types"/>
+
+</structure>

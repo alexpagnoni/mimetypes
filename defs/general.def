@@ -1,0 +1,39 @@
+# Module short name
+MODULEIDNAME       = mimetypes
+
+# Module version number
+MODULEVERSION      = 0.1-1
+
+# Module release date
+MODULEDATE         = 2003/05/02
+
+# Module long description
+MODULEDESCRIPTION  = Retrieves the appropriate MIME type of a file.
+
+# Module dependencies
+MODULEDEPENDENCIES =
+
+# Module suggestions
+MODULESUGGESTIONS  =
+
+MODULE_AUTHOR        = Keyvan Minoukadeh
+
+MODULE_AUTHOR_EMAIL  = keyvan@k1m.com
+
+MODULE_AUTHOR_SITE   = http://www.phpclasses.org/browse.html/package/922.html
+
+MODULE_SUPPORT_EMAIL = support@ampoliros.com
+
+MODULE_BUGS_EMAIL    = bugs@ampoliros.com
+
+MODULE_COPYRIGHT     =
+
+MODULE_LICENSE       = GPL
+
+MODULE_LICENSE_FILE  =
+
+MODULE_MAINTAINER    = Alex Pagnoni - Solarix
+
+MODULE_MAINTAINER_EMAIL = alex.pagnoni@solarix.biz
+
+MODULE_CATEGORY      = libraries
